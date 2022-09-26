@@ -1,0 +1,18 @@
+ C.9 Taxa de mortalidade específica por causas externas
+Óbitos p/suicídios por Região e Ano
+Período:1991-2007
+"Região";"1991";"1992";"1993";"1994";"1995";"1996";"1997";"1998";"1999";"2000";"2001";"2002";"2003";"2004";"2005";"2006";"2007"
+"Região Norte";247;247;256;242;270;340;307;406;289;372;439;393;437;447;476;478;542
+"Região Nordeste";764;727;847;924;1013;1045;1073;1055;1095;1133;1435;1546;1620;1651;1896;1961;2168
+"Região Sudeste";2182;2258;2456;2589;2780;2819;2934;2842;2462;2513;3010;2948;3008;2984;3211;3305;3226
+"Região Sul";1597;1611;1510;1669;1897;1939;2011;2151;2074;2034;2162;2047;2033;2151;2196;2131;2185
+"Região Centro-Oeste";396;425;486;508;634;600;598;535;610;728;692;792;763;784;771;764;747
+"Total";5186;5268;5555;5932;6594;6743;6923;6989;6530;6780;7738;7726;7861;8017;8550;8639;8868
+ Fonte: Ministério da Saúde/SVS - Sistema de Informações sobre Mortalidade - SIM
+ Notas:
+ Nas tabulações por faixa etária ou sexo, estão suprimidos os casos com idade ou sexo ignorados, respectivamente.
+ TME - Taxa de mortalidade específica: óbitos por 100.000 habitantes.
+ Taxas calculadas a partir dos óbitos informados ao SIM. As análises devem considerar as limitações de cobertura e qualidade da informação da causa de óbito.
+ A taxa de mortalidade específica não padronizada por idade está sujeitas à influência de variações na composição etária da população,
+ o que exige cautela nas comparações entre áreas geográficas e para períodos distintos.
+ 
